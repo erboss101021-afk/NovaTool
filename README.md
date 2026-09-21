@@ -306,7 +306,6 @@ The licensing status of the other NovaTool components is not specified in the or
 
 The scripts identify the following authors:
 
-- NovaTool: `Er_Boss`;
-- Shadow-Nuker: `Nystic Shadow`.
+- NovaTool: `Er_Boss`.
 
 Verify and update this section before publishing the repository.
